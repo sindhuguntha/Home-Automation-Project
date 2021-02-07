@@ -1,0 +1,57 @@
+body {
+    font-family: 'Times New Roman', Times, serif;
+    
+}
+#imglogo {
+    width:100px;
+    height: 100px;
+    padding: 7px;
+}
+.heading{
+    padding-top: 30px;
+    font-weight: bold;
+}
+#header{
+    color: white;
+    background-color: rgb(55, 8, 121);
+}
+#bodypart {
+    padding-top:30px;
+    padding-bottom: 80px;
+    background-color: rgb(97, 173, 224);
+}
+.button {
+    margin: auto;
+    display: block;
+    padding-left: 40px;
+    padding-right: 40px;
+    background-color:rgb(55, 8, 121);
+    color: white;
+    padding-top: 4px;
+    padding-bottom: 4px;
+    border-radius: 6px;
+
+}
+.btn:hover{
+    background-color:rgb(39, 6, 116);
+}
+#quote {
+    padding-bottom:30px;
+}
+.bulb {
+    padding-top:10px;
+    padding-bottom: 10px;
+}
+.head2{
+    display: block;
+    margin: auto;
+    font-weight: bold;
+}
+#footer {
+    padding-top: 30px;
+    padding-bottom: 30px;
+    
+    color: white;
+    background-color: rgb(55, 8, 121);
+}
+
